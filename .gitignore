@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Java y Maven
+target/
+**/target/
+*.class
+
+# IntelliJ IDEA
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
